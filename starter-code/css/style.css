@@ -1,1 +1,20 @@
-/* TODO: Make it awesome */
+* {
+    margin: 200, 300,200, 300;
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+h1 {
+    color: blue;
+    font-size: 250%;
+    text-shadow: 3px, 3px, 3px, 3px;
+    padding-bottom: 20px;
+    float: center;
+    /* border-bottom: 1.2px solid black; */
+}
+li {
+    font-size: 20px;
+    display: inline;
+    margin-right: 15px;
+}
